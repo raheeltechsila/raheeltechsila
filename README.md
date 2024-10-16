@@ -1,6 +1,6 @@
 ## RAHEEL 👋
 
-I have worked in the IT field for 17 years with extensive experience. Whether it's conceptualizing a fresh project, rescuing a troubled one, or scaling to serve millions, my past decade in the field has equipped me for your challenge.
+Welcome to my GitHub profile! I have worked in the IT field for 17 years with extensive experience. Whether it's conceptualizing a fresh project, rescuing a troubled one, or scaling to serve millions, my past decade in the field has equipped me for your challenge.
 
 I specialize in Laravel and PHP customized code. I can do back end or front end work.
 
@@ -12,9 +12,7 @@ I am looking for develop long term working relationships for on-going work. I ha
 
 👉Top Notch communication - validated by repeated positive feedback
 
-👉On budget delivery. 93% of the projects that I’ve done have successfully completed on time and on budget
-
-👉A clear NO if what you’re asking for isn’t possible in your expected time. I wouldn’t lead you on
+👉On budget delivery. 99% of the projects that I’ve done have successfully completed on time and on budget
 
 👉A 100% refund if I set the wrong expectation and can’t deliver. No questions asked!
 
@@ -45,7 +43,7 @@ I am looking for develop long term working relationships for on-going work. I ha
 
 **Why choose me?**
 
-👉 I have successfully completed number of projects with positive client reviews and ratings.
+👉 I have successfully completed number of projects with positive client reviews.
 
 👉 I believe in clear and timely communication to ensure client satisfaction and project success.
 
